@@ -54,6 +54,6 @@ When Bessie incorrectly converts N into base 2, she writes down
 
 The correct value of N is 14 ("1110" in base 2, "112" in base 3).
 
-***To submit your solution, please commit it inside this folder.***
+***Please do not view the solution to the problem before the next meeting. We will discuss our answers next time.***
 
 *From the USACO official website, which you can find [here](http://www.usaco.org/index.php?page=viewproblem2&cpid=85).*
