@@ -1,4 +1,4 @@
-# USACO 2011 November Contest, Bronze Division: Problem 2: Contest Timing
+# USACO 2011 November Contest, Bronze Division: Problem 1: Contest Timing
 
 ## The problem
 
@@ -49,6 +49,6 @@ Bessie ends the contest on November 12, at 13:14 (that is, at 1:14 PM).
 
 Bessie ends the contest 1563 minutes after she starts.
 
-***Please do not view the solution to the problem before the next meeting. To submit your solution, please either commit it to this repository within this folder or present your solution at the next meeting.***
+***Please do not view the solution to the problem before the next meeting. We will discuss our answers next time.***
 
 *From the USACO official website, which you can find [here](http://www.usaco.org/index.php?page=viewproblem2&cpid=84).*
